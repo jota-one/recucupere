@@ -14,8 +14,10 @@
     "name": "jorinho",
     "email": "jorinho@jota.one"
   },
+  "dependencies": {
+    "ky": "^1.10.0"
+  },
   "devDependencies": {
-    "ky": "^1.10.0",
     "oxlint": "^1.17.0",
     "oxlint-tsgolint": "^0.2.0",
     "release-it": "^19.0.5",
