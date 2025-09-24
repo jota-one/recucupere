@@ -9,6 +9,10 @@
     "lint": "oxlint --type-aware --fix",
     "release": "release-it"
   },
+  "author": {
+    "name": "jorinho",
+    "email": "jorinho@jota.one"
+  },
   "devDependencies": {
     "ky": "^1.10.0",
     "oxlint": "^1.17.0",
